@@ -9,7 +9,11 @@
   "author": "lodcoco@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "socket.io": "^2.2.0"
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.6",
+    "utf-8-validate": "^5.0.8"
   }
 }
